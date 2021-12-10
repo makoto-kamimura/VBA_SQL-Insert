@@ -1,34 +1,17 @@
-# SQL_insert_VBA
+# VBA_SQL_Insert
+当ツールはSQLおけるテストデータの作成効率化ツールです。
+下記プロセスでの動作により、SQl文を発行するツールとなります。
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-# SQL_insert構文生成ツール
-
-本ツールは
-excelセル上にテストデータを記載後にマクロを実行すると
-SQL構文(insert文)を発行してくれるツールです。
+1. Excelの対象セル上にテストデータを記載
+2. マクロの実行
+3. SQL文(insert文)を発行
 
 # DEMO
- 
-"実行画面スクリーンショット"
+※後程更新を予定
+* Demo  
+![VBA_SQL_Insert.gif](/README_img/VBA_SQL_Insert.gif)  
+* Document  
+![VBA_SQL_Insert.pdf](/README_img/VBA_SQL_Insert.pdf)  
   
-# Requirement
-  
-* excel
-* VBA
- 
-# Usage
- 
-"使用方法整備語後に記載を予定"
-
-# Note
-
-CSVファイルとの連携により、テストデータ発行の省略化が行えればベスト。
-
-# Author
- 
-* makoto kamimura
- 
 # License
-
-"SQL_insert_VBA" is Confidential.
+"VBA_SQL_Insert" is Confidential.
